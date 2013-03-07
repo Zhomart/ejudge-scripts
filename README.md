@@ -6,7 +6,29 @@ problems:
 
   problem_name1
 
+    tests
+
+      01
+
+      01.a
+
+      02
+
+      02.a
+
+    check.dpr
+
   problem_name2
+
+    001
+
+    001.a
+
+    002
+
+    002.a
+
+    Check.java
 
   ....
 
