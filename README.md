@@ -3,10 +3,15 @@
 ## insert scripts into problems folder:
 ```bash
 problems:
+
   problem_name1
+
   problem_name2
+
   ....
+
   make_tests.py
+
   make_contest.py
 ```
 
